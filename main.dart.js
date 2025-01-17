@@ -60965,7 +60965,7 @@ var $async$mw=A.R(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:i="London"
 p=4
 s=7
-return A.U(A.asP(A.f3("http://api.openweathermap.org/data/2.5/forecast?q="+A.k(i)+",uk&APPID=a5ce81f6cfe61e7b9c0843dbe08a8d1b")),$async$mw)
+return A.U(A.asP(A.f3("https://api.openweathermap.org/data/2.5/forecast?q="+A.k(i)+",uk&APPID=a5ce81f6cfe61e7b9c0843dbe08a8d1b")),$async$mw)
 case 7:n=b
 k=n
 m=B.cn.HK(A.asB(A.aqO(k.e).c.a.i(0,"charset")).dQ(k.w),null)
